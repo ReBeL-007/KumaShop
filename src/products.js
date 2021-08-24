@@ -4,7 +4,7 @@ const products = [
       'name': 'Boutiques of Bloom',
       'image': '/images/boutiques of bloom.jpg',
       'description':
-        'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+        'Porcelain is a special type of ceramic fired at a very high temperature, having excellent strength, durability, and a translucent quality. Ceramic dinnerware is more suitable for casual, everyday place settings while porcelain dinnerware is ideal for formal dining.',
       'brand': 'Apple',
       'category': 'Electronics',
       'price': 89.99,
@@ -17,7 +17,7 @@ const products = [
       'name': 'Bubble Painting',
       'image': '/images/bubble painting.jpg',
       'description':
-        'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+        'From cinimini\'s bubble effects collection. Our favourite set of plates.',
       'brand': 'Apple',
       'category': 'Electronics',
       'price': 599.99,
@@ -29,8 +29,8 @@ const products = [
       '_id': '3',
       'name': 'Myrto Zirini',
       'image': '/images/Myrto Zirini.jpg',
-      'description':
-        'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+      'description': 
+        'Myrto Zirini Ceramics is a contemporary ceramics workshop and showroom of one-of-a-kind pieces in the Mouragia area of Corfu Town. After taking a break from architecture, Myrto rediscovered her passion and creative drive in ceramics. She found with clay that she regained her dexterity, balance and freedom of expression. Myrto is currently working with organic, fluid forms rough and smooth textures.',
       'brand': 'Cannon',
       'category': 'Electronics',
       'price': 929.99,
@@ -43,7 +43,7 @@ const products = [
       'name': 'Chinese Craft',
       'image': '/images/chinese craft.jpg',
       'description':
-        'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+        'Chinese Knot is a decorative handicraft that began as a folk art in Tang and Song Dynasties, and became popular in Ming and Qing Dynasties. It is distinctive for its complicated pattern is woven separately from one piece of thread.',
       'brand': 'Sony',
       'category': 'Electronics',
       'price': 399.99,
@@ -56,7 +56,7 @@ const products = [
       'name': 'Kamares Vase',
       'image': '/images/Kamaresvase.jpg',
       'description':
-        'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
+        'Kamares Ware is a style of Minoan pottery characterized by its floral and/or geometric designs. painted on top of a black slip which covers the whole vessel.',
       'brand': 'Logitech',
       'category': 'Electronics',
       'price': 49.99,
@@ -69,7 +69,7 @@ const products = [
       'name': 'Jar with Tiger and Magpie',
       'image': '/images/jar with magpie.jpg',
       'description':
-        'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+        'Here, a single tiger sits tamely against a spare backdrop with a pine tree— a popular ... Late Joseon imagery of this subject matter, on porcelain and in folk painting, often also features a second auspicious animal, the magpie.',
       'brand': 'Amazon',
       'category': 'Electronics',
       'price': 29.99,
